@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[     77223,       1654]
-NotebookOptionsPosition[     74585,       1609]
-NotebookOutlinePosition[     75028,       1626]
-CellTagsIndexPosition[     74985,       1623]
+NotebookDataLength[     77152,       1653]
+NotebookOptionsPosition[     74516,       1608]
+NotebookOutlinePosition[     74959,       1625]
+CellTagsIndexPosition[     74916,       1622]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -1330,9 +1330,7 @@ Cell[BoxData[""], "Input",
 6e7e8ceb3852"],
 
 Cell[TextData[{
- "We should further utilize identities for the Y function but we can already \
-see that we must have made a mistake \nSince the solution given in the \
-article (C = I ",
+ "Since the solution given in the article (C = I ",
  Cell[BoxData[
   FormBox[
    RowBox[{"(", 
@@ -1598,8 +1596,9 @@ AABgd9/f38cv4Z/O3ybUIfWnr68voQL/Cm6Dk7A=
   ExpressionUUID->"ac2d2926-6845-4961-b8d6-3f16a5149ce3"],
  "\nIs only quadratic in r, but our solution is at least quartic in r."
 }], "Text",
- CellChangeTimes->{{3.90577571407864*^9, 
-  3.9057758757556677`*^9}},ExpressionUUID->"7adfdceb-20d6-4749-b011-\
+ CellChangeTimes->{{3.90577571407864*^9, 3.9057758757556677`*^9}, {
+  3.905827113403543*^9, 
+  3.905827113813183*^9}},ExpressionUUID->"7adfdceb-20d6-4749-b011-\
 b104fdf4f3c6"],
 
 Cell["", "Text",
@@ -1634,12 +1633,12 @@ Cell[27252, 533, 171, 2, 36, "Input",ExpressionUUID->"4f41ef33-3878-4f44-ae7e-57
 Cell[27426, 537, 9417, 174, 274, "Text",ExpressionUUID->"7e1a3989-aba8-45bc-ba18-07cc80ae13d2"],
 Cell[CellGroupData[{
 Cell[36868, 715, 1408, 41, 138, "Input",ExpressionUUID->"26a77ec3-1706-444a-a445-d5a6aec9865e"],
-Cell[38279, 758, 2196, 60, 124, "Output",ExpressionUUID->"0f459699-13e4-4309-8daa-a28d4ed4fd7f"]
+Cell[38279, 758, 2196, 60, 65, "Output",ExpressionUUID->"0f459699-13e4-4309-8daa-a28d4ed4fd7f"]
 }, Open  ]],
 Cell[40490, 821, 154, 3, 43, "Text",ExpressionUUID->"95da5aeb-9273-4d8c-a613-f0160277de3c"],
 Cell[CellGroupData[{
 Cell[40669, 828, 1691, 52, 138, "Input",ExpressionUUID->"3717145f-4d55-44aa-8017-1055c7955c88"],
-Cell[42363, 882, 1768, 50, 135, "Output",ExpressionUUID->"e31e2376-2f9c-4198-aae4-e61b2fc181f6"]
+Cell[42363, 882, 1768, 50, 73, "Output",ExpressionUUID->"e31e2376-2f9c-4198-aae4-e61b2fc181f6"]
 }, Open  ]],
 Cell[44146, 935, 163, 3, 43, "Text",ExpressionUUID->"f32830f1-3466-4d0f-a8a7-398ff1353fa8"],
 Cell[CellGroupData[{
@@ -1654,8 +1653,8 @@ Cell[51626, 1150, 1381, 37, 121, "Input",ExpressionUUID->"152a8d86-0776-4c7e-8cc
 Cell[53010, 1189, 5261, 134, 105, "Print",ExpressionUUID->"e4bc810f-fd56-4824-bb15-3e505ed51feb"]
 }, Open  ]],
 Cell[58286, 1326, 152, 3, 36, "Input",ExpressionUUID->"88d652ed-5ddd-4e9c-bd68-6e7e8ceb3852"],
-Cell[58441, 1331, 15995, 271, 375, "Text",ExpressionUUID->"7adfdceb-20d6-4749-b011-b104fdf4f3c6"],
-Cell[74439, 1604, 142, 3, 43, "Text",ExpressionUUID->"829c9ba3-762d-48a6-a76e-f6eaef9fbd51"]
+Cell[58441, 1331, 15926, 270, 347, "Text",ExpressionUUID->"7adfdceb-20d6-4749-b011-b104fdf4f3c6"],
+Cell[74370, 1603, 142, 3, 43, "Text",ExpressionUUID->"829c9ba3-762d-48a6-a76e-f6eaef9fbd51"]
 }
 ]
 *)
